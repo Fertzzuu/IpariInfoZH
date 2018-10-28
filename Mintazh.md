@@ -48,6 +48,11 @@ A fordítás három fázisa:
 ### 5. Mi jellemzi a Simulink diagram csomópontjait? Milyen adatstruktúrákra és metódusokra van szükség a csomópontok esetében a futtatáshoz?
 
 
+Csomópontok jellemzői:
+- Bemenetek:
+	- dimenzió
+	- típus
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjUxNzk2OV19
+eyJoaXN0b3J5IjpbLTE1NTQyMTc4MzEsLTM3MjUxNzk2OV19
 -->
