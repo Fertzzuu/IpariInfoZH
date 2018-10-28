@@ -96,8 +96,13 @@ Metódusok:
 
 __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz 
 
+---
+### 8. Mit értünk egy Simulink modell „külső” (external) futtatásán? Milyen fordítási lépések szükségesek a külső futtatáshoz? Milyen korlátozásokat kell betartani egy Simulink modell esetében ahhoz, hogy azt „külső” módban futtathassuk? Magyarázza meg a Target fogalmát!
+
+**"Külső" (external) futtatás:** Az 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2Nzc2NjgwLDEwNDkxNTIzOTgsLTQyNj
+eyJoaXN0b3J5IjpbMjYwMTYzNDc4LDEwNDkxNTIzOTgsLTQyNj
 g2MjAxNiwtMTMwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2
 OV19
 -->
