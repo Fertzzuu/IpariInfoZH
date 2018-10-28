@@ -52,7 +52,17 @@ Csomópontok jellemzői:
 - Bemenetek:
 	- dimenzió
 	- típus
-
+- Kimenetek:
+	- dimenzió
+	- típus
+	- számítási szabvány
+- Paraméterek:
+	- típusok
+	- értékek
+- Folytonos dinamika:
+	- állapot dim. & típus
+	- kezdeti érték
+	- derivált számítási szabál
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQyMTc4MzEsLTM3MjUxNzk2OV19
+eyJoaXN0b3J5IjpbLTE1Mzk4NjI3MjgsLTM3MjUxNzk2OV19
 -->
