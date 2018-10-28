@@ -69,11 +69,12 @@ Csomópontok jellemzői:
 ---
 ### 6. Az alábbi diagram a Simulink modellfuttatási végrehajtási hurkát ábrázolja. Töltse ki és magyarázza meg az egyes négyzetekkel reprezentált műveleteket! 
 
-![](https://i.loli.net/2018/10/29/5bd61700a1106.png)
+![diagram.png](https://i.loli.net/2018/10/29/5bd6180ba4ee1.png)
 
-A hurokban található műveletek ciklikusan 
+
+A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simulink motorja vezérli. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NTQwOTIzLC00MjY4NjIwMTYsLTEzMD
-czMTM3OTcsNjE0NTI4MDc1LC0zNzI1MTc5NjldfQ==
+eyJoaXN0b3J5IjpbLTEzODQ5NTA2OTAsLTQyNjg2MjAxNiwtMT
+MwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
 -->
