@@ -25,7 +25,7 @@ Algebrai (vagyis belső állapottal nem rendelkező) blokkokból álló hurok. A
 ----
 ### 3. Ismertesse a differenciálegyenletek megoldására szolgáló Heun-módszert! Adja meg a módszer egyenleteit, Butcher-tábláját ! Mekkora a módszer lokális és globális hibája?
 
-![heun](heun.png)
+![Heun-módszer](https://lh3.googleusercontent.com/WiNDA8DA6IdlR7AG-k551rrdcG2g7mKs5AYJtkq4UsttSTQ4Drz02Wo-pG2D4yIJB2hUJAJwnYgL)
 
 >Ide még jön kép heun bácsiról csak még nem tudom hogyan kéne képeket beilleszteni
 
@@ -70,6 +70,6 @@ Csomópontok jellemzői:
 
 ### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MTk2MzY4LDYxNDUyODA3NSwtMzcyNT
-E3OTY5XX0=
+eyJoaXN0b3J5IjpbLTE3NjY5MjMxNjMsNjE0NTI4MDc1LC0zNz
+I1MTc5NjldfQ==
 -->
