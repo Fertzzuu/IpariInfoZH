@@ -114,10 +114,10 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 		- Nem megengedhető dinamikus memóriahasználat vagy nem ismert be és kimeneti dimenzió
 		- Nem megengedhető az iteráció
 
-**Target:** Az a számítógép (mikrokontroller), ahol a Simulink modell futtatásra kerül. 
+**Target:** Az a számítógép (mikrokontroller), ahol a Simulink modell futtatásra kerül. Ehhez kell egy fordító, amely képes az ún. Target Language-ből végrehajtható kódot előállítani. Ez a fordító tipikusan C/C++ fordító
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk1NjMzODYsMTA0OTE1MjM5OCwtND
-I2ODYyMDE2LC0xMzA3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3
-OTY5XX0=
+eyJoaXN0b3J5IjpbMjU3NTMwNDI4LDEwNDkxNTIzOTgsLTQyNj
+g2MjAxNiwtMTMwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2
+OV19
 -->
