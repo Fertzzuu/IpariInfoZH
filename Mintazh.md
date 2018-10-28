@@ -79,12 +79,13 @@ A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simuli
 **S-függvény:** Saját blokkokat (sőt blokk-könyvtárakat hozhatunk létre, saját paraméterhalmazokkal.
 
 Hasznos lehet:
-	- tetszőleges rendszer leírására egyenletrendszerekkel
-	- új, általános célú blokkok létrehozására
-	- hardverspecifikus funkciók megvalósítására
-	- létező C kód szimulációjára, tesztelésére
-	- szimuláció gyorsítársára
-	- vizualizációra
+- tetszőleges rendszer leírására egyenletrendszerekkel
+- új, általános célú blokkok létrehozására
+- hardverspecifikus funkciók megvalósítására
+- létező C kód szimulációjára, tesztelésére
+- szimuláció gyorsítársára
+- vizualizációra
+
 A metódusokat több fajta nyelven is kódolhatjuk. Ezzel gyorsítást érhetünk el és/vagy valós idejű megvalósítást teszünk lehetővé.
 
 Metódusok:
@@ -100,6 +101,7 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 ### 8. Mit értünk egy Simulink modell „külső” (external) futtatásán? Milyen fordítási lépések szükségesek a külső futtatáshoz? Milyen korlátozásokat kell betartani egy Simulink modell esetében ahhoz, hogy azt „külső” módban futtathassuk? Magyarázza meg a Target fogalmát!
 
 **"Külső" (external) futtatás:** Az iterálási hurok számításait lehetőségünk van Matlabon "kívül", egy másik számítógépen, vagy egy valós idejű operációs rendszert futtató számítógépen elvégeztetni.
+
 **Fordítási lépések:**
 - RTW (Real-Time Workshop) build
 - Target Language Compiler
@@ -120,7 +122,7 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTQ4MTgxNTEyMCwx
-MDQ5MTUyMzk4LC00MjY4NjIwMTYsLTEzMDczMTM3OTcsNjE0NT
-I4MDc1LC0zNzI1MTc5NjldfQ==
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTI2NjA5NzQ0MCwt
+NDgxODE1MTIwLDEwNDkxNTIzOTgsLTQyNjg2MjAxNiwtMTMwNz
+MxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
 -->
