@@ -68,6 +68,8 @@ Csomópontok jellemzői:
 	- kezdeti érték
 	- aktualizálás számítási szabálya
 
+###6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NTI4MDc1LC0zNzI1MTc5NjldfQ==
+eyJoaXN0b3J5IjpbNDM5NjEwNjk0LDYxNDUyODA3NSwtMzcyNT
+E3OTY5XX0=
 -->
