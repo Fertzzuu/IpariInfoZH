@@ -83,9 +83,15 @@ Hasznos lehet:
 	- új, általános célú blokkok létrehozására
 	- hardverspecifikus funkciók megvalósítására
 	- létező C kód szimulációjára, tesztelésére
-	- szimuláció gyorsítárs
+	- szimuláció gyorsítársára
+	- vizualizációra
+A metódusokat több fajta nyelven is kódolhatjuk. Ezzel gyorsítást érhetünk el és/vagy valós idejű megvalósítást teszünk lehetővé.
+
+Metódusok:
+	- **Setup** - kompilálást segítő függvény
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkwNTI0NDAsLTQyNjg2MjAxNiwtMT
+eyJoaXN0b3J5IjpbLTE5NDk3NzUxNjYsLTQyNjg2MjAxNiwtMT
 MwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
 -->
