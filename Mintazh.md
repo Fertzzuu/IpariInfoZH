@@ -24,8 +24,7 @@ Algebrai (vagyis belső állapottal nem rendelkező) blokkokból álló hurok. A
 4. Késlelteltetés beszúrásával
 ----
 ### 3. Ismertesse a differenciálegyenletek megoldására szolgáló Heun-módszert! Adja meg a módszer egyenleteit, Butcher-tábláját ! Mekkora a módszer lokális és globális hibája?
-
-![Heun-módszer](https://lh3.googleusercontent.com/WiNDA8DA6IdlR7AG-k551rrdcG2g7mKs5AYJtkq4UsttSTQ4Drz02Wo-pG2D4yIJB2hUJAJwnYgL)
+![heun.png](https://i.loli.net/2018/10/29/5bd6159737668.png)
 
 ---
 ### 4. Mik a diagram futtatásának főbb lépései a Simulink környezetben és milyen műveletek kerülnek ezeknél végrehajtásra?
@@ -68,6 +67,6 @@ Csomópontok jellemzői:
 
 ### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDczMTM3OTcsNjE0NTI4MDc1LC0zNz
-I1MTc5NjldfQ==
+eyJoaXN0b3J5IjpbLTQyNjg2MjAxNiwtMTMwNzMxMzc5Nyw2MT
+Q1MjgwNzUsLTM3MjUxNzk2OV19
 -->
