@@ -66,8 +66,14 @@ Csomópontok jellemzői:
 	- kezdeti érték
 	- aktualizálás számítási szabálya
 
-### 6. 
+---
+### 6. Az alábbi diagram a Simulink modellfuttatási végrehajtási hurkát ábrázolja. Töltse ki és magyarázza meg az egyes négyzetekkel reprezentált műveleteket! 
+
+![](https://i.loli.net/2018/10/29/5bd61700a1106.png)
+
+A hurokban található műveletek ciklikusan 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzY1NTU2NCwtNDI2ODYyMDE2LC0xMz
-A3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3OTY5XX0=
+eyJoaXN0b3J5IjpbMjk1NTQwOTIzLC00MjY4NjIwMTYsLTEzMD
+czMTM3OTcsNjE0NTI4MDc1LC0zNzI1MTc5NjldfQ==
 -->
