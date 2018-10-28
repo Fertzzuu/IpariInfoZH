@@ -79,9 +79,13 @@ A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simuli
 **S-függvény:** Saját blokkokat (sőt blokk-könyvtárakat hozhatunk létre, saját paraméterhalmazokkal.
 
 Hasznos lehet:
- 
+	- tetszőleges rendszer leírására egyenletrendszerekkel
+	- új, általános célú blokkok létrehozására
+	- hardverspecifikus funkciók megvalósítására
+	- létező C kód szimulációjára, tesztelésére
+	- szimuláció gyorsítárs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODI0MzMzMSwtNDI2ODYyMDE2LC0xMz
-A3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3OTY5XX0=
+eyJoaXN0b3J5IjpbLTIwNTkwNTI0NDAsLTQyNjg2MjAxNiwtMT
+MwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
 -->
