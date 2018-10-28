@@ -94,10 +94,10 @@ Metódusok:
 	- **Outputs** - kimenetek frissítése
 	- **InicializeCondition** - kezdeti állapot
 
-__C kódok__: 
+__C kódok__: Script készítésével, amelyek kiterjesztése .m lesz 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1Nzk4ODYyLDEwNDkxNTIzOTgsLTQyNj
+eyJoaXN0b3J5IjpbODU2Nzc2NjgwLDEwNDkxNTIzOTgsLTQyNj
 g2MjAxNiwtMTMwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2
 OV19
 -->
