@@ -62,7 +62,12 @@ Csomópontok jellemzői:
 - Folytonos dinamika:
 	- állapot dim. & típus
 	- kezdeti érték
-	- derivált számítási szabál
+	- derivált számítási szabálya
+- Diszkrét dinamika:
+	- állapot dim. & típus
+	- kezdeti érték
+	- aktualizálás számítási szabálya
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk4NjI3MjgsLTM3MjUxNzk2OV19
+eyJoaXN0b3J5IjpbNjE0NTI4MDc1LC0zNzI1MTc5NjldfQ==
 -->
