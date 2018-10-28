@@ -109,10 +109,15 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 
 **Korlátozások:**
 	- Valós idő esetén:
-		- A hurokban lévő számítások determinisztikusak
+		- A hurokban lévő számítások determinisztikusak és jósolhatóak.
+		- A folytonos tagok numerikus integrálása NEM függhet adaptív módon a deriváltak értékétől (fix lépésköz)
+		- Nem megengedhető dinamikus memóriahasználat vagy nem ismert be és kimeneti dimenzió
+		- Nem megengedhető az iteráció
+
+**Target:** Az a számítógép (mikrokontroller), ahol a Simulink modell futtatásra kerül. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg4Mzk0OSwxMDQ5MTUyMzk4LC00Mj
-Y4NjIwMTYsLTEzMDczMTM3OTcsNjE0NTI4MDc1LC0zNzI1MTc5
-NjldfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk1NjMzODYsMTA0OTE1MjM5OCwtND
+I2ODYyMDE2LC0xMzA3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3
+OTY5XX0=
 -->
