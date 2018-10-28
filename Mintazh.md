@@ -72,9 +72,9 @@ Csomópontok jellemzői:
 ![diagram.png](https://i.loli.net/2018/10/29/5bd6180ba4ee1.png)
 
 
-A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simulink motorja vezérli. 
+A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simulink motorja vezérli. A linkelési fázisban keletkeznek a diagram szintű `derivates`, `update`, `outputs` metódusok. Két mintavételi időpont között a folytonos állapotok alakulását  a kiválasztot 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ5NTA2OTAsLTQyNjg2MjAxNiwtMT
-MwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
+eyJoaXN0b3J5IjpbLTYwNTE2NDI0MywtNDI2ODYyMDE2LC0xMz
+A3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3OTY5XX0=
 -->
