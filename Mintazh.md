@@ -119,7 +119,8 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzMyNDc1OSwxMDQ5MTUyMzk4LC00Mj
-Y4NjIwMTYsLTEzMDczMTM3OTcsNjE0NTI4MDc1LC0zNzI1MTc5
-NjldfQ==
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTQ4MTgxNTEyMCwx
+MDQ5MTUyMzk4LC00MjY4NjIwMTYsLTEzMDczMTM3OTcsNjE0NT
+I4MDc1LC0zNzI1MTc5NjldfQ==
 -->
