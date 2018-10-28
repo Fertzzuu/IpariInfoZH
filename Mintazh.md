@@ -27,8 +27,6 @@ Algebrai (vagyis belső állapottal nem rendelkező) blokkokból álló hurok. A
 
 ![Heun-módszer](https://lh3.googleusercontent.com/WiNDA8DA6IdlR7AG-k551rrdcG2g7mKs5AYJtkq4UsttSTQ4Drz02Wo-pG2D4yIJB2hUJAJwnYgL)
 
->Ide még jön kép heun bácsiról csak még nem tudom hogyan kéne képeket beilleszteni
-
 ---
 ### 4. Mik a diagram futtatásának főbb lépései a Simulink környezetben és milyen műveletek kerülnek ezeknél végrehajtásra?
 
@@ -70,6 +68,6 @@ Csomópontok jellemzői:
 
 ### 6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY5MjMxNjMsNjE0NTI4MDc1LC0zNz
+eyJoaXN0b3J5IjpbLTEzMDczMTM3OTcsNjE0NTI4MDc1LC0zNz
 I1MTc5NjldfQ==
 -->
