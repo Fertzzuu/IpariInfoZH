@@ -72,9 +72,16 @@ Csomópontok jellemzői:
 ![diagram.png](https://i.loli.net/2018/10/29/5bd6180ba4ee1.png)
 
 
-A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simulink motorja vezérli. A linkelési fázisban keletkeznek a diagram szintű `derivates`, `update`, `outputs` metódusok. Két mintavételi időpont között a folytonos állapotok alakulását  a kiválasztot 
+A hurokban található műveletek ciklikusan végrehajtódnak. A hurkot a Simulink motorja vezérli. A linkelési fázisban keletkeznek a diagram szintű `derivates`, `update`, `outputs` metódusok. Két mintavételi időpont között a folytonos állapotok alakulását  a kiválasztott `solver` szerint számoljuk (integráljuk).
+
+### 7. Mire szolgál az S-függvény? Milyen metódusok implementálása szükséges? Hogyan lehetséges C nyelvű kódok beépítése?
+
+**S-függvény:** Saját blokkokat (sőt blokk-könyvtárakat hozhatunk létre, saját paraméterhalmazokkal.
+
+Hasznos lehet:
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTE2NDI0MywtNDI2ODYyMDE2LC0xMz
+eyJoaXN0b3J5IjpbMjA5ODI0MzMzMSwtNDI2ODYyMDE2LC0xMz
 A3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3OTY5XX0=
 -->
