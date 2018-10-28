@@ -92,9 +92,12 @@ Metódusok:
 	- **Derivates** - deriváltak számítása
 	- **Update** - következő állapot számítása
 	- **Outputs** - kimenetek frissítése
-	- __InitializeCondition__
+	- **InicializeCondition** - kezdeti állapot
+
+__C kódok__: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTE1MjM5OCwtNDI2ODYyMDE2LC0xMz
-A3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3OTY5XX0=
+eyJoaXN0b3J5IjpbMzg1Nzk4ODYyLDEwNDkxNTIzOTgsLTQyNj
+g2MjAxNiwtMTMwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2
+OV19
 -->
