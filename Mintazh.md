@@ -89,9 +89,12 @@ A metódusokat több fajta nyelven is kódolhatjuk. Ezzel gyorsítást érhetün
 
 Metódusok:
 	- **Setup** - kompilálást segítő függvény
-	- 
+	- **Derivates** - deriváltak számítása
+	- **Update** - következő állapot számítása
+	- **Outputs** - kimenetek frissítése
+	- __InitializeCondition__
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk3NzUxNjYsLTQyNjg2MjAxNiwtMT
-MwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
+eyJoaXN0b3J5IjpbMTA0OTE1MjM5OCwtNDI2ODYyMDE2LC0xMz
+A3MzEzNzk3LDYxNDUyODA3NSwtMzcyNTE3OTY5XX0=
 -->
