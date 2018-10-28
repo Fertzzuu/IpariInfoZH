@@ -88,11 +88,11 @@ Hasznos lehet:
 A metódusokat több fajta nyelven is kódolhatjuk. Ezzel gyorsítást érhetünk el és/vagy valós idejű megvalósítást teszünk lehetővé.
 
 Metódusok:
-	- **Setup** - kompilálást segítő függvény
-	- **Derivates** - deriváltak számítása
-	- **Update** - következő állapot számítása
-	- **Outputs** - kimenetek frissítése
-	- **InicializeCondition** - kezdeti állapot
+- **Setup** - kompilálást segítő függvény
+- **Derivates** - deriváltak számítása
+- **Update** - következő állapot számítása
+- **Outputs** - kimenetek frissítése
+- **InicializeCondition** - kezdeti állapot
 
 __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz 
 
@@ -101,23 +101,25 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 
 **"Külső" (external) futtatás:** Az iterálási hurok számításait lehetőségünk van Matlabon "kívül", egy másik számítógépen, vagy egy valós idejű operációs rendszert futtató számítógépen elvégeztetni.
 **Fordítási lépések:**
-	- RTW (Real-Time Workshop) build
-	- Target Language Compiler
-	- make (=> model.exe) 
-	- Letöltés a célszámítógépre
-	- Végrehajtás Simulink külső módban
+- RTW (Real-Time Workshop) build
+- Target Language Compiler
+- make (=> model.exe) 
+- Letöltés a célszámítógépre
+- Végrehajtás Simulink külső módban
 
 **Korlátozások:**
-	- Valós idő esetén:
-		- A hurokban lévő számítások determinisztikusak és jósolhatóak.
-		- A folytonos tagok numerikus integrálása NEM függhet adaptív módon a deriváltak értékétől (fix lépésköz)
-		- Nem megengedhető dinamikus memóriahasználat vagy nem ismert be és kimeneti dimenzió
-		- Nem megengedhető az iteráció
+- Valós idő esetén:
+	- A hurokban lévő számítások determinisztikusak és jósolhatóak.
+	- A folytonos tagok numerikus integrálása NEM függhet adaptív módon a deriváltak értékétől (fix lépésköz)
+	- Nem megengedhető dinamikus memóriahasználat vagy nem ismert be és kimeneti dimenzió
+	- Nem megengedhető az iteráció
 
-**Target:** Az a számítógép (mikrokontroller), ahol a Simulink modell futtatásra kerül. Ehhez kell egy fordító, amely képes az ún. Target Language-ből végrehajtható kódot előállítani. Ez a fordító tipikusan C/C++ fordító
+**Target:** Az a számítógép (mikrokontroller), ahol a Simulink modell futtatásra kerül. Ehhez kell egy fordító, amely képes az ún. Target Language-ből végrehajtható kódot előállítani. Ez a fordító tipikusan C/C++ fordító.
+
+---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NTMwNDI4LDEwNDkxNTIzOTgsLTQyNj
-g2MjAxNiwtMTMwNzMxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2
-OV19
+eyJoaXN0b3J5IjpbLTUwNzMyNDc1OSwxMDQ5MTUyMzk4LC00Mj
+Y4NjIwMTYsLTEzMDczMTM3OTcsNjE0NTI4MDc1LC0zNzI1MTc5
+NjldfQ==
 -->
