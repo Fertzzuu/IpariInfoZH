@@ -120,9 +120,11 @@ __C kódok__: Script készítésével, amelyek kiterjesztése .m lesz
 
 ---
 
+### 9. Magyarázza meg a ráfutás (overrun) jelenségét egy ábra segítségével akkor, ha a ráfutást egy megszakításvezérelt taszk okozza, illetve akkor ha „Single Timer” módban futtatunk különböző mintavételi periódusidejű blokkokból álló Simulink modelleket!
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTI2NjA5NzQ0MCwt
-NDgxODE1MTIwLDEwNDkxNTIzOTgsLTQyNjg2MjAxNiwtMTMwNz
-MxMzc5Nyw2MTQ1MjgwNzUsLTM3MjUxNzk2OV19
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbOTk2MTU0NTc3LC0y
+NjYwOTc0NDAsLTQ4MTgxNTEyMCwxMDQ5MTUyMzk4LC00MjY4Nj
+IwMTYsLTEzMDczMTM3OTcsNjE0NTI4MDc1LC0zNzI1MTc5Njld
+fQ==
 -->
